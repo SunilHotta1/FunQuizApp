@@ -2,8 +2,9 @@
   var questions = [
   
   {
+  	
     question: "WHICH OF THESE ARE NOT CAST OF MOVIE BAAR BAAR DEKHO?",
-	choices: ['SIDDHARTH MALHOTRA', 'KATRINA KAIF' ,'SAUANI GUPTA','ANUPAM KHER'],
+	choices: ['SIDDHARTH MALHOTRA' , 'KATRINA KAIF' ,'SAUANI GUPTA','ANUPAM KHER'],
     correctAnswer: 3
   }, 
   
