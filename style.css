@@ -1,0 +1,18 @@
+li{
+list-style-type:arrow;	
+color:white;
+
+}
+h1{
+	text-align:center;
+	color:#33A2FF;
+	font-family:Impact, Charcoal, sans-serif;
+	font-size:50px;
+}
+body{
+	background-image:url(images.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
